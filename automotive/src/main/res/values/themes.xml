@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Automotive_POI_NavigationApp" parent="android:Theme.Material.Light.DarkActionBar" />
+</resources>
